@@ -26,7 +26,7 @@ COURSE SYLLABUS | სასწავლო კურსის სილაბუ
 | **Component** | **Hours** |
 |---------------|-----------|
 | Credits | კრედიტები | 3 |
-| Contact Hours | საკონტაქტო საათების რაოდენობა | 30 hours |
+| Contact Hours | საკონტაქტო საათების რაოდენობა | 30 hours (15 sessions × 2 hours) |
 | Self-Study Hours | დამოუკიდებელი საათების რაოდენობა | 60 hours |
 | Total Hours | საათების ჯამური რაოდენობა | 90 HOURS |
 
@@ -164,7 +164,11 @@ By the end of the course, students will be able to:
 - **Assess** technology maturity using frameworks like Gartner Hype Cycle and technology adoption lifecycle
 - **Design** digital transformation strategies for incumbents and market entry strategies for disruptors
 - **Map** intellectual property landscapes in technology sectors and develop IP protection strategies
-
+- **Forecast** technology trends using weak signals, scenario planning, and expert analysis
+- **Critique** business models enabled by digital platforms, network effects, and data strategies
+- **Develop** technology roadmaps with realistic timelines, resource allocation, and risk mitigation
+- **Apply** responsible AI and ethical technology principles in innovation strategy
+- **Communicate** complex technology strategies through executive-quality reports and presentations
 
 +---+-----------------------+--------------------------------------------+
 
@@ -177,9 +181,9 @@ By the end of the course, students will be able to:
 Course | სასწავლო კურსი             Digital Innovation and Disruptive 
                                     Technologies
 ------------------------------ ----------------------------------------
-Instructor | ლექტორი                [Instructor Name]
+Instructor | ლექტორი                [Zeshan Ahmad]
 
-CONTACT | საკონტაქტო ინფორმაცია   [Email] | [Office Hours]
+CONTACT | საკონტაქტო ინფორმაცია   [zeshan.ahmad@kiu.edu.ge] | [Office Hours]
 -----------------------------------------------------------------------
 
 +---+-------------------------+-----------------------------------------+
@@ -528,7 +532,7 @@ Level | საგანმანათლებლო საფეხური  
 
 Course Code | სასწავლო კურსის კოდი       [TBD]
 
-Academic Year | სასწავლო წელი             September 2025
+Academic Year | სასწავლო წელი             February 2025
 -----------------------------------------------------------------------
 
 -------------------------------------------------------------------------
@@ -699,8 +703,3 @@ Credits |         Contact Hours |   Self-Study Hours  Total Hours |
 |   |                    | - Business Model & IP Strategy (10 pts):     |
 |   |                    |   Revenue model, IP protection strategy,     |
 |   |                    |   competitive positioning, go-to-market      |
-- **Forecast** technology trends using weak signals, scenario planning, and expert analysis
-- **Critique** business models enabled by digital platforms, network effects, and data strategies
-- **Develop** technology roadmaps with realistic timelines, resource allocation, and risk mitigation
-- **Apply** responsible AI and ethical technology principles in innovation strategy
-- **Communicate** complex technology strategies through executive-quality reports and presentations
