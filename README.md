@@ -1,1 +1,0 @@
-# MBA-Course-Syllabus-Proposal
